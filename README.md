@@ -1,6 +1,7 @@
 # Weather Forecasts
 
-Checking weather forecasts by city/state or zip code using OpenWeather API
+Using OpenWeather API, this Python program looks up weather forecasts (in the United States) by city/state or zip code. Includes city/state/zip code, current temperature, “feels like” temperature, min and max temperatures, current humidity, current pressure, cloud cover, and a general weather description.
 
-"main.py" - Python file containing the code to run the program
+Files:
+"main.py" - Python file containing the program's code
 
